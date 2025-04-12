@@ -6,9 +6,9 @@
 
 ---
 
-### Мои проекты, выполненные в ходе обучения: Выполненные в ходе обучения проекты:
+### Мои проекты, выполненные в ходе обучения:
 
-[![Проект 1](https://img.shields.io/badge/-Проект_1_спринта-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
+[![Проект 1](https://img.shields.io/badge/-Проект_1-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
 
 **Задание:**  
 
