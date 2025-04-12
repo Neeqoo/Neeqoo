@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="900" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" width="900" src="assets/Header_Mario.gif"  />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://vk.com/neeqoo" target="_blank">
-    <img src="https://avatars.dzeninfra.ru/get-zen_doc/9366213/pub_646c363daa5dda0de4572f02_646c3815fa619c34047593f7/scale_1200" height="25" width="100" alt="youtube logo"  />
+    <img src="assets/vk_full_logo.png" height="25" width="100" alt="youtube logo"  />
   </a>
   <a href="https://t.me/neeqoo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="telegram logo"  />
