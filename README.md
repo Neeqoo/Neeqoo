@@ -17,12 +17,12 @@
 ### ⚒️ Инстументы:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-<img src="https://asset.brandfetch.io/idAnDTFapY/idG4aRyg5R.svg?updated=1669900249741" title="miro" alt="miro" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="youtrack" width="40" height="40"/>&nbsp
+<img src="https://asset.brandfetch.io/idAnDTFapY/idG4aRyg5R.svg?updated=1669900249741" title="Miro" alt="miro" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="figma" alt="Figma" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles-Proxy" alt="Charles-Proxy" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
 </div>
 
 
@@ -39,6 +39,6 @@
 
 ---
 
-### 🪪 Контактные данные:
+### Контактные данные:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/neeqoo) 
-[![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=Mail.ru)](mailto:neeqoo@bk.ru)
+
