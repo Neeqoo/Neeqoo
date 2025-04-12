@@ -1,4 +1,4 @@
-![Header](https://github.com/neeqoo/Neeqoo/blob/main/assets/Header.png) 
+![Header](https://github.com/neeqoo/Neeqoo/blob/main/assets/Header2.png) 
 
 # Привет!
 
