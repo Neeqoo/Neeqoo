@@ -38,6 +38,12 @@
 
 ###
 
+[![Проект 3](https://img.shields.io/badge/-Проект_3-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
+
+**Задание:**  
+
+###
+
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
