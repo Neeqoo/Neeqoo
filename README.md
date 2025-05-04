@@ -17,9 +17,9 @@
 
 ---
  
-### Мои проекты, выполненные в ходе обучения: ###
+### Мои проекты (Ручное тестирование): ###
 
-[![Проект 1](https://img.shields.io/badge/-Яндекс_Маршруты_Логика-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
+[![Проект 1](https://img.shields.io/badge/-Яндекс.Маршруты_WEB-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
@@ -32,7 +32,7 @@
 
 ###
 
-[![Проект 2](https://img.shields.io/badge/-Яндекс_Маршруты_Логика+Верстка-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
+[![Проект 2](https://img.shields.io/badge/-Яндекс.Маршруты_WEB-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
@@ -46,7 +46,7 @@
 
 ###
 
-[![Проект 3](https://img.shields.io/badge/-Мобильное_приложение_Яндекс_Метро-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1UN2WIN_MCkQfx66mLba0nIOHLCMO7u9nM4adM8z0Wu0/edit?usp=sharing)
+[![Проект 3](https://img.shields.io/badge/-Яндекс.Метро_Mobile_Application-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1UN2WIN_MCkQfx66mLba0nIOHLCMO7u9nM4adM8z0Wu0/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
@@ -58,7 +58,7 @@
 
 ###
 
-[![Проект 4](https://img.shields.io/badge/-API_Яндекс_Прилавок-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
+[![Проект 4](https://img.shields.io/badge/-Яндекс_Прилавок_API-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
@@ -78,7 +78,7 @@
 
 ###
 
-[![Проект 5](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/document/d/1vL5_gfyYAabBF6pFH0PgaHJEcLt0UiF2juVBz_ot1iY/edit?usp=sharing)
+[![Проект 5](https://img.shields.io/badge/-Яндекс.Прилавок_SQL-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/document/d/1vL5_gfyYAabBF6pFH0PgaHJEcLt0UiF2juVBz_ot1iY/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
@@ -95,11 +95,33 @@
 
 ###
 
-[![Диплом по ручному тестированию](https://img.shields.io/badge/-Диплом-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1ReZiDuiohoo0ArB3Vq27fWDUi9gmPJPZ5y_K2pT0JvY/edit?usp=sharing)
+[![Диплом по ручному тестированию](https://img.shields.io/badge/-Яндекс_Самокат_WEB_+_API_+_Mobile_Application-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1ReZiDuiohoo0ArB3Vq27fWDUi9gmPJPZ5y_K2pT0JvY/edit?usp=sharing)
 
-**Описание:**  
+<details>
+<summary>Задача:</summary>
+
+1) Веб приложение Яндекс.Самокат
+   - Изучить техническую информацию при запуске приложения — в ней описаны все доступы к серверу, БД и адреса API.
+   - Изучи требования.
+   - Составь чек-лист по требованиям к экрану «Статус заказа».
+   - Для экрана «Сделать заказ» составь проверки на валидацию полей.
+   - Провести тестирование всей функциональности, не только по получившимся чек-листам и таблицам, но и по остальным макетам и требованиям.
+
+2) Мобильное приложение Яндекс.Самокат
+   - Изучить техническую информацию по запуску приложения.
+   - Изучить требования к приложению.
+   - Спроектировать тест-кейсы и протестировать функциональность. Написать кейсы и на вёрстку по макетам к этой функциональности.
+  
+3) API приложения Яндекс.Самокат
+    - Изучить техническую информацию при запуске приложения.
+    - Изучить требования к бэкенду и документацию к API.
+    - Разработать чек-лист и протестировать API.
+
+</details> 
 
 --- 
+
+### Мои проекты (Авто тестирование): ###
 
 <h3 align="left">🛠 Технологии:</h3>
 <div>
