@@ -8,22 +8,41 @@
 
 
 ---
+
+### Socials:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-E5C2B6?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/neeqoo)
+[![Instagram](https://img.shields.io/badge/-Instagram-E5C2B6?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/neeqoo_)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-E5C2B6?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/neeqoo)
+
+---
  
-### Мои проекты, выполненные в ходе обучения:
+### Мои проекты, выполненные в ходе обучения: ###
 
-[![Тестирование Яндекс Маршрутов (Логика)](https://img.shields.io/badge/-Проект_1-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
+[![Тестирование Яндекс Маршрутов (Логика)](https://img.shields.io/badge/-Яндекс_Маршруты_Логика-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
 
 <details>
-<summary>Описание:</summary>
-blah blah blah blah you found me!
+<summary>Задача:</summary>
+ 
+- Провести тест-анализ требований на валидацию полей. Если найдёшь серые зоны, обратись за разъяснением к преподавателю.
+- Создать набор тест-кейсов на проверку валидации полей формы Яндекс Маршрутов. Примени техники тест-дизайна: классы эквивалентности и граничные значения.
+- Протестировать валидацию полей и завести баг-репорты, если есть баги.
+
+</details>
+
+###
+
+[![Тестирование Яндекс Маршрутов (Верстка + логика)](https://img.shields.io/badge/-Яндекс_Маршруты_Логика+Верстка-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
+
+<details>
+<summary>Задача:</summary>
+ 
+- Составить тестовую документацию.
+- Выполнить проверки.
+- Завести баг-репорты
+- Протестировать новый вид транспорта с помощью Charles (подменить ответы от бэкенда и настроить автоматические ответы)
+
 </details>  
-
-[![Тестирование Яндекс Маршрутов (Верстка + логика)](https://img.shields.io/badge/-Проект_2-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
-
-<details>
-<summary>Описание:</summary>
-blah blah blah blah you found me!
-</details>   
 
 ###
 
@@ -49,15 +68,7 @@ blah blah blah blah you found me!
 
 **Описание:**  
 
----
-
-### Socials:
-
-[![Telegram](https://img.shields.io/badge/-Telegram-E5C2B6?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/neeqoo)
-[![Instagram](https://img.shields.io/badge/-Instagram-E5C2B6?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/neeqoo_)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-E5C2B6?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/neeqoo)
-
----
+--- 
 
 <h3 align="left">🛠 Технологии:</h3>
 <div>
