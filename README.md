@@ -3,7 +3,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="900" src="assets/Header_Mario.gif"  />
+  <img height="400" width="900" src="assets/Header_Mario.gif"  />
 </div>
 
 
