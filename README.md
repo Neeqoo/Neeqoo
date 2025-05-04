@@ -26,19 +26,31 @@
  
 ### Мои проекты, выполненные в ходе обучения:
 
-[![Проект 1](https://img.shields.io/badge/-Проект_1-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
+[![Тестирование Яндекс Маршрутов (Логика)](https://img.shields.io/badge/-Проект_1-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
 
 **Задание:**  
 
 ###
 
-[![Проект 2](https://img.shields.io/badge/-Проект_2-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
+[![Тестирование Яндекс Маршрутов (Верстка + логика)](https://img.shields.io/badge/-Проект_2-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
 
 **Задание:**  
 
 ###
 
-[![Проект 3](https://img.shields.io/badge/-Проект_3-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
+[![Проект 3](https://img.shields.io/badge/-Проект_3-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1UN2WIN_MCkQfx66mLba0nIOHLCMO7u9nM4adM8z0Wu0/edit?usp=sharing)
+
+**Задание:**  
+
+###
+
+[![Проект 4](https://img.shields.io/badge/-Проект_4-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
+
+**Задание:**  
+
+###
+
+[![Проект 5](https://img.shields.io/badge/-Проект_5-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/document/d/1vL5_gfyYAabBF6pFH0PgaHJEcLt0UiF2juVBz_ot1iY/edit?usp=sharing)
 
 **Задание:**  
 
