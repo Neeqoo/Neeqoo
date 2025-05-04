@@ -163,7 +163,7 @@
 
 ###
 
-[![Проект 9](https://img.shields.io/badge/Яндекс.Самокат_API_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/)
+[![Проект 9](https://img.shields.io/badge/Яндекс.Самокат_API_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/scooter_API_autotests_java)
 
 <details>
 <summary>Задача:</summary>
