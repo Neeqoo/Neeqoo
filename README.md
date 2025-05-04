@@ -7,65 +7,59 @@
 </div>
 
 
-
-
-###
-
-<div align="center">
-  <a href="https://vk.com/neeqoo" target="_blank">
-    <img src="assets/vk_full_logo.png" height="25" width="100" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/neeqoo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
 ---
  
 ### Мои проекты, выполненные в ходе обучения:
 
 [![Тестирование Яндекс Маршрутов (Логика)](https://img.shields.io/badge/-Проект_1-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
 
-**Задание:**  
-
-###
+<details>
+<summary>Описание:</summary>
+blah blah blah blah you found me!
+</details>  
 
 [![Тестирование Яндекс Маршрутов (Верстка + логика)](https://img.shields.io/badge/-Проект_2-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
 
-**Задание:**  
+<details>
+<summary>Описание:</summary>
+blah blah blah blah you found me!
+</details>   
 
 ###
 
 [![Проект 3](https://img.shields.io/badge/-Проект_3-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1UN2WIN_MCkQfx66mLba0nIOHLCMO7u9nM4adM8z0Wu0/edit?usp=sharing)
 
-**Задание:**  
+**Описание:**
 
 ###
 
 [![Проект 4](https://img.shields.io/badge/-Проект_4-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
 
-**Задание:**  
+**Описание:**  
 
 ###
 
 [![Проект 5](https://img.shields.io/badge/-Проект_5-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/document/d/1vL5_gfyYAabBF6pFH0PgaHJEcLt0UiF2juVBz_ot1iY/edit?usp=sharing)
 
-**Задание:**  
+**Описание:**  
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+[![Диплом по ручному тестированию](https://img.shields.io/badge/-Диплом-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1ReZiDuiohoo0ArB3Vq27fWDUi9gmPJPZ5y_K2pT0JvY/edit?usp=sharing)
 
-###
+**Описание:**  
+
+---
+
+### Socials:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-E5C2B6?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/neeqoo)
+[![Instagram](https://img.shields.io/badge/-Instagram-E5C2B6?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/neeqoo_)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-E5C2B6?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/neeqoo)
+
+---
 
 <h3 align="left">🛠 Технологии:</h3>
-
-### 
-
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="youtrack" width="40" height="40"/>&nbsp
 <img src="https://asset.brandfetch.io/idAnDTFapY/idG4aRyg5R.svg?updated=1669900249741" title="Miro" alt="miro" width="40" height="40"/>&nbsp
@@ -85,4 +79,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge" title="SQL" alt="SQL" width="100" height="40"/>&nbsp
  </div>
 
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
