@@ -19,7 +19,7 @@
  
 ### Мои проекты, выполненные в ходе обучения: ###
 
-[![Тестирование Яндекс Маршрутов (Логика)](https://img.shields.io/badge/-Яндекс_Маршруты_Логика-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
+[![Проект 1](https://img.shields.io/badge/-Яндекс_Маршруты_Логика-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
@@ -32,7 +32,7 @@
 
 ###
 
-[![Тестирование Яндекс Маршрутов (Верстка + логика)](https://img.shields.io/badge/-Яндекс_Маршруты_Логика+Верстка-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
+[![Проект 2](https://img.shields.io/badge/-Яндекс_Маршруты_Логика+Верстка-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
@@ -46,21 +46,50 @@
 
 ###
 
-[![Проект 3](https://img.shields.io/badge/-Проект_3-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1UN2WIN_MCkQfx66mLba0nIOHLCMO7u9nM4adM8z0Wu0/edit?usp=sharing)
+[![Проект 3](https://img.shields.io/badge/-Мобильное_приложение_Яндекс_Метро-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1UN2WIN_MCkQfx66mLba0nIOHLCMO7u9nM4adM8z0Wu0/edit?usp=sharing)
 
-**Описание:**
+<details>
+<summary>Задача:</summary>
+ 
+- Протестировать те части продукта, которых коснулись изменения (рефакторинг).
+- Провести регрессионное тестирование и убедиться, что новую версию можно заливать в стор.
+
+</details> 
 
 ###
 
-[![Проект 4](https://img.shields.io/badge/-Проект_4-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
+[![Проект 4](https://img.shields.io/badge/-API_Яндекс_Прилавок-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
 
-**Описание:**  
+<details>
+<summary>Задача:</summary>
+ 
+Протестировать функционал работы с корзиной:
+- Возможность получить список продуктов, которые добавили в корзину. Ручка GET /api/v1/orders/id.
+- Возможность добавлять продукты в корзину. Ручка PUT /api/v1/orders/:id.
+- Возможность удалять корзину. Ручка DELETE/api/v1/orders/:id.
+
+Протестировать функционал работы с наборами:
+- возможность добавлять продукты в набор — ручка POST /api/v1/kits/{id}/products.
+
+Протестировать функционал работы с курьерами:
+- Возможность проверить, есть ли доставка курьерской службой «Привезём быстро» и сколько она стоит. Ручка POST /fast-delivery/v3.1.1/calculate-delivery.xml. 
+
+</details> 
 
 ###
 
-[![Проект 5](https://img.shields.io/badge/-Проект_5-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/document/d/1vL5_gfyYAabBF6pFH0PgaHJEcLt0UiF2juVBz_ot1iY/edit?usp=sharing)
+[![Проект 5](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/document/d/1vL5_gfyYAabBF6pFH0PgaHJEcLt0UiF2juVBz_ot1iY/edit?usp=sharing)
 
-**Описание:**  
+<details>
+<summary>Задачи:</summary>
+1) Подсчитать количество записей в таблице user_model по столбцу id.
+2) Добавить 3 новых продукта в таблицу product_model
+3) Вывести таблицу товаров по категориям, которых больше 5. Отсортировать по количеству в категории (по возрастанию)
+4) Вывести список заказов дороже 500р, и указать их актуальность (yes \ no). В таблице должен быть только id заказа и его статус.
+5) Сделать выборку товаров из таблицы product_model вместе с их категориями (category_model). Отфильтровать товары по цене в диапозоне от 200 до 500. Должны вернуться 3 столбца (product_name \ price \ category_name)
+6) Выполнить группировку и суммирование количества товаров (productsCount) по названиям карт (card_model.name), связанных через таблицу kit_model.
+
+</details> 
 
 ###
 
