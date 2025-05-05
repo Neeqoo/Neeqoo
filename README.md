@@ -1,15 +1,41 @@
- # <div align="center" size="48px" > Привет👋 Меня зовут Николай! </div> 
 
-<br clear="both">
 
-<div align="center">
-  <img height="400" width="900" src="assets/Header_Mario.gif"  />
-</div>
+<p>Привет 👋  Я Николай и я QA Engineer. Здесь вы можете посмотреть на некоторые мои проекты, с которыми я ранее работал. Сейчас я активно ищу работу, можете ознакомиться с моим <a href="https://disk.yandex.ru/i/o8NtVyXPft-j_Q">резюме</a>.</p>
+
+<h2>👩🏻‍💻 Немного обо мне</h2>
+<img align="right" src="assets/Header_Mario.gif" height="245" alt="QA testing gif">
+<ul>
+  <li> Закончил обучение Яндекс Практикум «Инженер по тестированию:
+от новичка до автоматизатора».</li>
+  <li> В свободное время углубляюсь в Java с упором на разработку, чтобы глубже понимать архитектуру и писать автотесты. </li>
+  <li> Более шести лет работал в банковской сфере, руководил командами до 10 человек. </li>
+  <li> С детства находил уязвимости с помощью DevTools — ещё в школе расшифровывал тесты по коду страниц. </li>
+  <li> Люблю работу в команде, но не меньше ценю спокойную и сосредоточенную рутину. </li>
+</ul>
+
+---
+
+<h3 align="left">🛠 Технологии:</h3>
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="youtrack" width="40" height="40"/>&nbsp
+<img src="https://asset.brandfetch.io/idAnDTFapY/idG4aRyg5R.svg?updated=1669900249741" title="Miro" alt="miro" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles-Proxy" alt="Charles-Proxy" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA" alt="intelliJ" width="40" height="40"/>&nbsp
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" title="Android-Studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
+  <img src="https://camo.githubusercontent.com/b379711b7e2112b7a1f8311a01e93b7efe90906278dff834124a077c48346109/68747470733a2f2f7777772e756e646572776f726c64636f64652e6f72672f636f6e74656e742f696d616765732f73697a652f773630302f323032302f30382f4d6f62792d6c6f676f2d312e706e67" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+ <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/logos/logo_sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp
+  </div>
 
 
 ---
 
-### Socials:
+### :octocat: Соцсети:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-E5C2B6?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/neeqoo)
 [![Instagram](https://img.shields.io/badge/-Instagram-E5C2B6?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/neeqoo_)
@@ -202,27 +228,7 @@
 
 --- 
 
-<h3 align="left">🛠 Технологии:</h3>
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="youtrack" width="40" height="40"/>&nbsp
-<img src="https://asset.brandfetch.io/idAnDTFapY/idG4aRyg5R.svg?updated=1669900249741" title="Miro" alt="miro" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles-Proxy" alt="Charles-Proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA" alt="intelliJ" width="40" height="40"/>&nbsp
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" title="Android-Studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
-  </div>
-
-  <div>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker" width="100" height="40"/>&nbsp
-  <img src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge" title="SQL" alt="SQL" width="100" height="40"/>&nbsp
- </div>
-
-###
+ ###
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
