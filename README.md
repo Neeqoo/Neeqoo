@@ -65,7 +65,7 @@
 
 ###
 
-[![Проект 6](https://img.shields.io/badge/-Яндекс_Самокат_WEB_+_API_+_Mobile_Application-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1ReZiDuiohoo0ArB3Vq27fWDUi9gmPJPZ5y_K2pT0JvY/edit?usp=sharing)
+[![Проект 6](https://img.shields.io/badge/-Яндекс.Самокат_WEB_+_API_+_Mobile_Application-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1ReZiDuiohoo0ArB3Vq27fWDUi9gmPJPZ5y_K2pT0JvY/edit?usp=sharing)
 
 ###
 
