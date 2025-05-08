@@ -84,7 +84,7 @@
 
 ###
 
-[![Проект 4](https://img.shields.io/badge/-Яндекс_Прилавок_API-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
+[![Проект 4](https://img.shields.io/badge/-Яндекс.Прилавок_API-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
