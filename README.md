@@ -47,103 +47,27 @@
 
 [![Проект 1](https://img.shields.io/badge/-Яндекс.Маршруты_WEB_Logic-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
 
-<details>
-<summary>Задача:</summary>
- 
-- Провести тест-анализ требований на валидацию полей.
-- Создать набор тест-кейсов на проверку валидации полей формы Яндекс Маршрутов.
-- Протестировать валидацию полей и завести баг-репорты, если есть баги.
-
-</details>
-
 ###
 
 [![Проект 2](https://img.shields.io/badge/-Яндекс.Маршруты_WEB_UI+Logic-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
-
-<details>
-<summary>Задача:</summary>
- 
-- Составить тестовую документацию.
-- Выполнить проверки.
-- Завести баг-репорты
-- Протестировать новый вид транспорта с помощью `Charles` (подменить ответы от бэкенда и настроить автоматические ответы)
-
-</details>  
 
 ###
 
 [![Проект 3](https://img.shields.io/badge/-Яндекс.Метро_Mobile_Application-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1UN2WIN_MCkQfx66mLba0nIOHLCMO7u9nM4adM8z0Wu0/edit?usp=sharing)
 
-<details>
-<summary>Задача:</summary>
- 
-- Протестировать те части продукта, которых коснулись изменения (рефакторинг).
-- Провести регрессионное тестирование и убедиться, что новую версию можно заливать в стор.
-
-</details> 
-
 ###
 
 [![Проект 4](https://img.shields.io/badge/-Яндекс.Прилавок_API-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
-
-<details>
-<summary>Задача:</summary>
- 
-Протестировать функционал работы с корзиной:
-- Возможность получить список продуктов, которые добавили в корзину. Ручка `GET` `/api/v1/orders/id`.
-- Возможность добавлять продукты в корзину. Ручка `PUT` `/api/v1/orders/:id`.
-- Возможность удалять корзину. Ручка `DELETE` `/api/v1/orders/:id`.
-
-Протестировать функционал работы с наборами:
-- возможность добавлять продукты в набор — ручка `POST` `/api/v1/kits/{id}/products`.
-
-Протестировать функционал работы с курьерами:
-- Возможность проверить, есть ли доставка курьерской службой `Привезём быстро` и сколько она стоит. Ручка `POST` `/fast-delivery/v3.1.1/calculate-delivery.xml`. 
-
-</details> 
 
 ###
 
 [![Проект 5](https://img.shields.io/badge/-Яндекс.Прилавок_SQL-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/document/d/1vL5_gfyYAabBF6pFH0PgaHJEcLt0UiF2juVBz_ot1iY/edit?usp=sharing)
 
-<details>
-<summary>Задача:</summary>
-
- 
-- Подсчитать количество записей в таблице `user_model` по столбцу `id`.
-- Добавить 3 новых продукта в таблицу `product_model`.
-- Вывести таблицу товаров по категориям, которых больше 5. Отсортировать по количеству в категории (по возрастанию).
-- Вывести список заказов дороже 500р, и указать их актуальность (`yes` \ `no`). В таблице должен быть только `id` заказа и его статус.
-- Сделать выборку товаров из таблицы `product_model` вместе с их категориями (`category_model`). Отфильтровать товары по цене в диапозоне от `200` до `500`. Должны вернуться 3 столбца (`product_name` \ `price` \ `category_name`).
-- Выполнить группировку и суммирование количества товаров (`productsCount`) по названиям карт (`card_model.name`), связанных через таблицу `kit_model`.
-
-</details> 
-
 ###
 
 [![Проект 6](https://img.shields.io/badge/-Яндекс_Самокат_WEB_+_API_+_Mobile_Application-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1ReZiDuiohoo0ArB3Vq27fWDUi9gmPJPZ5y_K2pT0JvY/edit?usp=sharing)
 
-<details>
-<summary>Задача:</summary>
-
-1) Веб приложение Яндекс.Самокат
-   - Изучить техническую информацию при запуске приложения — в ней описаны все доступы к серверу, БД и адреса `API`.
-   - Изучи требования.
-   - Составь чек-лист по требованиям к экрану `Статус заказа`.
-   - Для экрана `Сделать заказ` составь проверки на валидацию полей.
-   - Провести тестирование всей функциональности, не только по получившимся чек-листам и таблицам, но и по остальным макетам и требованиям.
-
-2) Мобильное приложение Яндекс.Самокат
-   - Изучить техническую информацию по запуску приложения.
-   - Изучить требования к приложению.
-   - Спроектировать тест-кейсы и протестировать функциональность. Написать кейсы и на вёрстку по макетам к этой функциональности.
-  
-3) `API` приложения Яндекс.Самокат
-    - Изучить техническую информацию при запуске приложения.
-    - Изучить требования к бэкенду и документацию к `API`.
-    - Разработать чек-лист и протестировать `API`.
-
-</details> 
+###
 
 --- 
 
