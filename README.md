@@ -45,7 +45,7 @@
  
 ### Мои проекты (Ручное тестирование): ###
 
-[![Проект 1](https://img.shields.io/badge/-Яндекс.Маршруты_WEB-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
+[![Проект 1](https://img.shields.io/badge/-Яндекс.Маршруты_WEB_Logic-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
@@ -58,7 +58,7 @@
 
 ###
 
-[![Проект 2](https://img.shields.io/badge/-Яндекс.Маршруты_WEB-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
+[![Проект 2](https://img.shields.io/badge/-Яндекс.Маршруты_WEB_UI+Logic-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
 
 <details>
 <summary>Задача:</summary>
