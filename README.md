@@ -45,7 +45,7 @@
 
 ### 💻 Мои проекты (autotests): ###
 
-[![Проект 7](https://img.shields.io/badge/Яндекс.Самокат_WEB_UI_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/scooter_web_ui_autotests_java)
+[![Проект 7](https://img.shields.io/badge/Яндекс.Самокат_Web_UI_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/scooter_web_ui_autotests_java)
 
 ###
 
@@ -54,6 +54,18 @@
 ###
 
 [![Проект 9](https://img.shields.io/badge/Яндекс.Самокат_API_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/scooter_API_autotests_java)
+
+###
+
+[![Проект 10](https://img.shields.io/badge/Burger_Web_UI_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/Burger_web_ui_autotests_java)
+
+###
+
+[![Проект 11](https://img.shields.io/badge/Burger_Web_API_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/Burger_web_API_autotests_java)
+
+###
+
+[![Проект 12](https://img.shields.io/badge/Burger_Web_Unit_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/Burger_web_unit_autotests_java)
 
 ###
 
