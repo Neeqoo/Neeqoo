@@ -42,6 +42,22 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-E5C2B6?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/neeqoo)
 
 ---
+
+### 💻 Мои проекты (autotests): ###
+
+[![Проект 7](https://img.shields.io/badge/Яндекс.Самокат_WEB_UI_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/scooter_web_ui_autotests_java)
+
+###
+
+[![Проект 8](https://img.shields.io/badge/ZOO_UNIT_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/zoo_unit_autotests_java/tree/main)
+
+###
+
+[![Проект 9](https://img.shields.io/badge/Яндекс.Самокат_API_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/scooter_API_autotests_java)
+
+###
+
+---
  
 ### 📂 Мои проекты (manual): ###
 
@@ -70,22 +86,6 @@
 ###
 
 --- 
-
-### 💻 Мои проекты (autotests): ###
-
-[![Проект 7](https://img.shields.io/badge/Яндекс.Самокат_WEB_UI_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/scooter_web_ui_autotests_java)
-
-###
-
-[![Проект 8](https://img.shields.io/badge/ZOO_UNIT_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/zoo_unit_autotests_java/tree/main)
-
-###
-
-[![Проект 9](https://img.shields.io/badge/Яндекс.Самокат_API_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/scooter_API_autotests_java)
-
-###
-
----
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
