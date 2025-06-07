@@ -45,7 +45,7 @@
 
 ### 💻 Мои проекты (autotests): ###
 
-[![Проект 13](https://img.shields.io/badge/PetStore_Web_API_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/PetStoreForYandex)
+[![Проект 13](https://img.shields.io/badge/PetStore_API_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/PetStoreForYandex)
 
 ###
 
