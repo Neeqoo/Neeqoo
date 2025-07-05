@@ -1,4 +1,4 @@
-<h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="ladybug"></h2>
+<h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" width="40" height="40" alt="ladybug"></h2>
 
 <p>Привет 👋  Я Николай и я QA Engineer. Здесь вы можете посмотреть на некоторые мои проекты, с которыми я ранее работал. Сейчас я активно ищу работу, можете ознакомиться с моим <a href="https://disk.yandex.ru/i/sQMnztUKvbnfGw">резюме</a>.</p>
 
