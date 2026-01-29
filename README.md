@@ -42,7 +42,7 @@
 
 ---
 
-### 💻 Мои проекты (autotests): ###
+### 💻 Мои проекты с обучения (autotests): ###
 
 [![Проект 13](https://img.shields.io/badge/PetStore_API_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/PetStoreForYandex)
 
@@ -74,7 +74,7 @@
 
 ---
  
-### 📂 Мои проекты (manual): ###
+### 📂 Мои проекты с обучения (manual): ###
 
 [![Проект 1](https://img.shields.io/badge/-Яндекс.Маршруты_WEB_Logic-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
 
