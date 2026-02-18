@@ -27,6 +27,8 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" title="Android-Studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/nodejs-icon.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/logos/logo_sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp
   </div>
 
