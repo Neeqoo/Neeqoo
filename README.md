@@ -1,6 +1,6 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" width="35" height="35" alt="ladybug"></h2>
 
-<p>Привет 👋  Я Николай и я QA Engineer. Около 2х лет работал ручным тестировщиком в компании Ameton над проектом сети "ВкусВилл". Сейчас я активно ищу работу для дальнейшего саморазвития и карьерного роста.</p>
+<p>Привет 👋  Я Николай и я QA Engineer. Около 2х лет работал ручным тестировщиком в компании Ameton над проектом сети "ВкусВилл".</p>
 
 <h2>👩🏻‍💻 Немного обо мне</h2>
 <img align="right" src="assets/Header_Mario.gif" height="245" alt="QA testing gif">
