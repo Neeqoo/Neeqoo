@@ -1,6 +1,6 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" width="35" height="35" alt="ladybug"></h2>
 
-<p>Привет 👋  Я Николай и я QA Engineer. Чуть больше 2х лет работал ручным тестировщиком в компании Ameton над проектом сети "ВкусВилл". Сейчас я активно ищу работу для дальнейшего саморазвития и карьерного роста, можете ознакомиться с моим <a href="https://disk.yandex.ru/i/W0ZTHm-28yNO4g">резюме</a>.</p>
+<p>Привет 👋  Я Николай и я QA Engineer. Около 2х лет работал ручным тестировщиком в компании Ameton над проектом сети "ВкусВилл". Сейчас я активно ищу работу для дальнейшего саморазвития и карьерного роста.</p>
 
 <h2>👩🏻‍💻 Немного обо мне</h2>
 <img align="right" src="assets/Header_Mario.gif" height="245" alt="QA testing gif">
@@ -71,34 +71,6 @@
 ###
 
 [![Проект 12](https://img.shields.io/badge/Burger_Web_Unit_Java-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neeqoo/Burger_web_unit_autotests_java)
-
-###
-
----
- 
-### 📂 Мои проекты с обучения (manual): ###
-
-[![Проект 1](https://img.shields.io/badge/-Яндекс.Маршруты_WEB_Logic-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/126D4gf2rWft64EgpEiiVveD36DRgO9l2Esp67cZiHb0/edit?usp=sharing)
-
-###
-
-[![Проект 2](https://img.shields.io/badge/-Яндекс.Маршруты_WEB_UI+Logic-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1EM0rHLwPjAGuL70Abr0HAPsYLnCz2KKTFV8lWTpK0dM/edit?usp=sharing)
-
-###
-
-[![Проект 3](https://img.shields.io/badge/-Яндекс.Метро_Mobile_Application-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1UN2WIN_MCkQfx66mLba0nIOHLCMO7u9nM4adM8z0Wu0/edit?usp=sharing)
-
-###
-
-[![Проект 4](https://img.shields.io/badge/-Яндекс.Прилавок_API-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1kNSnBsFQ6hevWL33DRAliWNu9ypftqc5XzE48WOG5gQ/edit?usp=sharing)
-
-###
-
-[![Проект 5](https://img.shields.io/badge/-Яндекс.Прилавок_SQL-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/document/d/1vL5_gfyYAabBF6pFH0PgaHJEcLt0UiF2juVBz_ot1iY/edit?usp=sharing)
-
-###
-
-[![Проект 6](https://img.shields.io/badge/-Яндекс.Самокат_WEB_+_API_+_Mobile_Application-black?style=for-the-badge&logo=GoogleSheets&logoColor)](https://docs.google.com/spreadsheets/d/1ReZiDuiohoo0ArB3Vq27fWDUi9gmPJPZ5y_K2pT0JvY/edit?usp=sharing)
 
 ###
 
