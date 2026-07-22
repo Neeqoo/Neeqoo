@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" title="Java" alt="Java" width="40" height="40"/>&nbsp
-  
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/nodejs-icon.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp
