@@ -18,25 +18,25 @@
 
 <h3 align="left">🛠 Технологии:</h3>
 <div>
-<img src="https://asset.brandfetch.io/idAnDTFapY/idG4aRyg5R.svg?updated=1669900249741" title="Miro" alt="miro" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles-Proxy" alt="Charles-Proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA" alt="intelliJ" width="40" height="40"/>&nbsp
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" title="Android-Studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" title="Java" alt="Java" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/nodejs-icon.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" title="Android" alt="Android" width="40" height="40"/>&nbsp
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
+<img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" title="Rest" alt="Rest" width="40" height="40"/>&nbsp
+<img src="https://asset.brandfetch.io/idAnDTFapY/idG4aRyg5R.svg?updated=1669900249741" title="Miro" alt="miro" width="40" height="40"/>&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles-Proxy" alt="Charles-Proxy" width="40" height="40"/>&nbsp
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA" alt="intelliJ" width="40" height="40"/>&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" title="Java" alt="Java" width="40" height="40"/>&nbsp
+<img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp
+<img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/nodejs-icon.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" title="Android" alt="Android" width="40" height="40"/>&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" title="Android-Studio" alt="android-studio" width="40" height="40"/>&nbsp
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
 </div>
 
 
